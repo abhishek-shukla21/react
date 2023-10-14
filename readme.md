@@ -1,6 +1,7 @@
 Projects URLs
 
-- Background Changer
-- Currency Converter
-- React Counter
-- [Password Generator](https://aesthetic-druid-0025b6.netlify.app/)
+- [Background Changer]
+- [Currency Converter]
+- [Custom React Application]
+- [React Counter]
+- [Password Generator](https://pass-generator-react-app.netlify.app/)
